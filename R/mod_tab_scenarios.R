@@ -26,6 +26,7 @@ mod_tab_scenarios_server <- function(id, r) {
       r = r,
       tab_section = "scenarios"
     )
+
   })
 }
 
